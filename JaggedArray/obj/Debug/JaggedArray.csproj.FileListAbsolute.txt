@@ -1,0 +1,7 @@
+D:\Visual Studio 2022\Projects\LAB4_ EX 2\JaggedArray_Final\JaggedArray\bin\Debug\JaggedArray.exe.config
+D:\Visual Studio 2022\Projects\LAB4_ EX 2\JaggedArray_Final\JaggedArray\bin\Debug\JaggedArray.exe
+D:\Visual Studio 2022\Projects\LAB4_ EX 2\JaggedArray_Final\JaggedArray\bin\Debug\JaggedArray.pdb
+D:\Visual Studio 2022\Projects\LAB4_ EX 2\JaggedArray_Final\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Projects\LAB4_ EX 2\JaggedArray_Final\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Projects\LAB4_ EX 2\JaggedArray_Final\JaggedArray\obj\Debug\JaggedArray.exe
+D:\Visual Studio 2022\Projects\LAB4_ EX 2\JaggedArray_Final\JaggedArray\obj\Debug\JaggedArray.pdb
